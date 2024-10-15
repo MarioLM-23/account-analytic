@@ -2,3 +2,5 @@
 - Eduardo de Miguel (\[Moduon\](<https://www.moduon.team/>))
 - Rafael Blasco (\[Moduon\](<https://www.moduon.team/>))
 - Mario Luis (\[Binhex\](<https://www.binhex.cloud/>))
+- APSL - Nagarro \<<https://apsl.tech>\>
+  - Bernat Obrador
